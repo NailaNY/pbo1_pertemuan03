@@ -1,4 +1,4 @@
-package Operator;
+package Percabangan;
 
 public class IfElse {
     public static void main(String[] args){
